@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int x = 40;
+    int x = 10;
     int y = 20;
     int z = 30;
     cout<<"x ="<<x<<endl;
